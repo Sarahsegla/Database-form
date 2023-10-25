@@ -1,0 +1,63 @@
+input[type=text] {
+    width: 75%;
+    padding: 13px 21px;
+    margin: 9px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    display: block;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: Exo 2;
+    
+  }
+
+h1 {
+    padding-top: 30px;
+    padding-left: 80px;
+    font-family: Agbalumo;
+}
+
+
+
+.sides div {
+    width:50%;
+    height:100%;
+    float:left;
+}
+
+.left {
+    align-items: center;
+    
+}
+
+#right {
+    background-color: blueviolet;
+    width: 50%;
+    border-radius: 5px;
+    height:600px;
+    text-align: center;
+    font-family: Exo 2;
+}
+
+h2 {
+    padding-top: 40px;
+    font-size: 65px;
+    font-family: Agbalumo;
+    color: aliceblue;
+}
+button {
+    width: 75%;
+  background-color: blueviolet;
+  color: white;
+  padding: 15px 21px;
+  margin: 9px 0;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button :hover {
+    background-color: blueviolet;
+  }
