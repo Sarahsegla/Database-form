@@ -2,9 +2,9 @@
  
 
 // connect to our data
-$dsn = "mysql:host=localhost;dbname=myfirstdatabase";
-$dbusername = "root";
-$dbpassword = "";
+$dsn = "mysql:host=sql309.infinityfree.com;dbname=if0_35293563_myfirstdatabase";
+$dbusername = "if0_35293563";
+$dbpassword = "ROh2C8ZV65k";
 
 
 
