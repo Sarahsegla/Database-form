@@ -1,15 +1,16 @@
 # Database-form
 
 ## User Story
-Allow the user to input username, password, and email.
-Sign up form using PHP and MySQL database.
+Allow the user to input username, password, and email./
+Sign up form using PHP and MySQL database./
 User information shows on the database after submission.
-.
+
 
 
 
 
 ## Link 
+http://sarahseg.infinityfreeapp.com/
 
 
 
